@@ -20,7 +20,7 @@ This "budget-app-front" is the frontend app portion (REACT) that pairs with the 
 
 <h2> Here are the Github repository links: Front and Back end to My Budget App:</h2>
       <ul>
-        <li>DATABASE_URL: https://github.com/judychuepursuit/budget-app-front</li>
+        <li>DATABASE_URL: https://github.com/judychuepursuit/budget-app-front-2</li>
         <li>PORT: <a href="http://http://localhost:3000">http://localhost:3006</a></li>
 <br>
         <li>DATABASE_URL: https://github.com/judychuepursuit/budgeting-app</li>
