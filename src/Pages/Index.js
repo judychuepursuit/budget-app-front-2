@@ -34,7 +34,7 @@ function Index() {
 
   return (
     <div className="Index">
-      <h1>BANK ACCOUNT TOTAL: $ {balance.toFixed(2)}</h1>
+      <h1>BANK ACCOUNT TOTAL: ${balance.toFixed(2)}</h1>
       <Transactions transactions={transactions} />
     
     </div>
