@@ -30,13 +30,13 @@ function LogNewForm() {
   const addTransaction = (newTransaction) => {
     axios
       .post(`${API}/transactions`, newTransaction)
-      .then(() => navigate(`/transactions`))
+      .then((res) => navigate(`/transactions`))
       .catch((c) => console.error("catch", c));
   };
 
   const handleTextChange = (event) => {
     setTransaction({ ...transaction, [event.target.id]: event.target.value });
-  };
+  }
 
   const handleAmountChange = (event) => {
     setTransaction({ ...transaction, [event.target.id]: Number(event.target.value) });

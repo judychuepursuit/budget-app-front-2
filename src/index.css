@@ -5,7 +5,7 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   /* NOTE: There are 2 option using the gif image, this one is for the NavBar banner, the other is applied to the main page, If you try it, remember to change the text and buttons .css style file. */
-  background-image: url(img/source.webp);
+  /* background-image: url(img/source.webp); */
   /* Background image fills the page and does not repeat */
   background-repeat: no-repeat; 
   background-size: cover;
@@ -17,7 +17,7 @@ nav {
   /* background: #457426; */
   /* background: #85af69; */
   background: #53aa19;
-  /* background-image: url(img/source.webp); */
+  background-image: url(img/source.webp);
   display: flex;
   justify-content: space-between;
   align-items: center;

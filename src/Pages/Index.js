@@ -29,13 +29,25 @@ function Index() {
   let balance = 0;
   transactions.forEach(tr => balance += tr.amount);
 
+  // let TOTAL = 0;
+  // transactions.forEach(tr => total += tr.amount);
+
   return (
     <div className="Index">
-      <h1>BANK ACCOUNT TOTAL: {balance.toFixed(2)}</h1>
+      <h1>BANK ACCOUNT TOTAL: $ {balance.toFixed(2)}</h1>
       <Transactions transactions={transactions} />
     
     </div>
   );
 }
+
+// return (
+//   <div className="Index">
+//     <h1>BANK ACCOUNT $ { TOTAL.toFixed(2) }</h1>
+//     <Transactions transactions={transactions} />
+  
+//   </div>
+// );
+// }
 
 export default Index;
