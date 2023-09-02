@@ -14,18 +14,18 @@ My-Budgeting-App
 
 <h3>My-Budget-App Home_pg:<h3> 
 <img alt="my-budget-app Index page" 
-src="https://raw.githubusercontent.com/judychuepursuit/budget-app-front/main/src/img/Frnt_budget%20App_home_pg%20alt%20.png" width="350"></img>
+src="src/img/Frnt_budget App_Index pg alt .png" width="350"></img>
 <br> 
 <h3>My Trello Board:<h3> <h4><i>contact me to request access to board</i></h4>
-<img alt="BUDGET APP TRELLO BOARD" src="src/components/images/yoga- TRELLO.png" width="550"></img>
+<img alt="BUDGET APP TRELLO BOARD" src="src/img/Judy Budget app Trello Board.png" width="550"></img>
 
 <h3>My Budget App Sketch:<h3> 
-<img alt="MY BUDGET APP_TRELLO BOARD" src="https://raw.githubusercontent.com/judychuepursuit/budget-app-front/main/src/img/Budget%20App%20Sketch_2.png" width="350"></img>
+<img alt="MY BUDGET APP_Sketch" src="src/img/Budget App Sketch_2.png" width="350"></img>
 
 <h2> Here are the Github repository links: budgeting-app </h2>
       <ul>
-         <li>Deployed_APP: <a href= https://my-react-yoga-app.onrender.com>Budget App</a></li>
-<br>
+         <!-- <li>Deployed_APP: <a href= https://my-budget-app.onrender.com>Budget App</a></li>
+<br> -->
         <li>DATABASE_URL: https://github.com/judychuepursuit/budgeting-app</li>
 <br>
         <li>DATABASE_URL: https://github.com/judychuepursuit/budget-app-front-2</li>
@@ -44,8 +44,8 @@ src="https://raw.githubusercontent.com/judychuepursuit/budget-app-front/main/src
   The REACT app uses the following installs and dependencies: axios, react, react-dom, react-router-dom in order to connect to the back end and the request(s) be viewed on the local host or deployed sites.
 <br>
   <h2>budgeting-app: Backend</h2>
- The EXPRESS app (use git init -y) uses the following installs and dependencies: express, nodemon, dotenv, cors also add a ‘VALIDATIONS” folder (checks apps) . 
-This App requires a db folder that has a dbconfig.js, schema.sql (contains the table “INFORMATION”) and a  seed.sql file (contains the files “VALUES”).
+The EXPRESS app (use git init -y) uses the following installs and dependencies: express, nodemon, dotenv, cors also add a ‘VALIDATIONS” folder (checks apps) . 
+This App requires a db folder that has a dbconfig.js, schema.sql (contains the table “INFORMATION”) and a seed.sql file (contains the files “VALUES”).
 Include a .env file and type in the PORT=30xx (edit the last digits accordingly). 
 Note: Make sure that the .env file has been correctly saved inside the main folder.  
   <h2>contact info:</h2>
