@@ -13,8 +13,8 @@ budget-app-front-2 is the frontend app portion (REACT) that pairs with the budge
 My-Budgeting-App
 
 <h3>My-Budget-App Home_pg:<h3> 
-<img alt="my-budget-app Index page" 
-src="src/img/Frnt_budget App_Index pg alt .png" width="350"></img>
+<img alt="my-budget-app Home page" 
+src="src/img/Frnt_budget App_home_pg alt .png" width="350"></img>
 <br> 
 <h3>My Trello Board:<h3> <h4><i>contact me to request access to board</i></h4>
 <img alt="BUDGET APP TRELLO BOARD" src="src/img/Judy Budget app Trello Board.png" width="550"></img>
