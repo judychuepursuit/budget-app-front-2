@@ -20,7 +20,7 @@ src="src/img/Frnt_budget App_home_pg alt .png" width="350"></img>
 <img alt="BUDGET APP TRELLO BOARD" src="src/img/Judy Budget app Trello Board.png" width="550"></img>
 
 <h3>My Budget App Sketch:<h3> 
-<img alt="MY BUDGET APP_Sketch" src="src/img/Budget App Sketch_2.png" width="350"></img>
+<img alt="MY BUDGET APP_Sketch" src="src/img/Budget App Sketch_updated.png" width="350"></img>
 
 <h2> Here are the Github repository links: budgeting-app </h2>
       <ul>
